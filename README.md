@@ -5,9 +5,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Spolavore&bg_color=ffffff&color=f50000&line=9e4c4c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![Spolavore's Stats](https://github-readme-stats.vercel.app/api?username=Spolavore&theme=onedark&show_icons=true&hide_border=true&count_private=true) ![Spolavore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spolavore&theme=onedark&hide_border=true)
-
-
+![Spolavore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Spolavore&theme=onedark&hide_border=true)![Spolavore's Stats](https://github-readme-stats.vercel.app/api?username=Spolavore&theme=onedark&show_icons=true&hide_border=true&count_private=true) 
 
 
 
