@@ -1,8 +1,6 @@
 ### Olá , eu sou o João 
 
-- 🔭 Atualmente eu trabalho com React js
-- 🌱 Estou tentando aprender o AWS Amplify kkk
-
+- 🔭 Atualmente eu trabalho com Vue e Node
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Spolavore&bg_color=ffffff&color=9e4c4c&line=9e4c4c&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
